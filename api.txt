@@ -1,0 +1,9 @@
+城市代码查询：https://geoapi.qweather.com/v2/city/lookup?location=beij&key=926d17dc2fe943e2baaffbf732dfb584
+城市实时数据：https://devapi.qweather.com/v7/weather/now?location=101010200&key=926d17dc2fe943e2baaffbf732dfb584
+天气预警数据：https://api.qweather.com/v7/warning/now?location=101230201&lang=en&key=926d17dc2fe943e2baaffbf732dfb584
+实时空气质量：https://api.qweather.com/v7/air/now?location=101010100&key=926d17dc2fe943e2baaffbf732dfb584
+天气指数：https://devapi.qweather.com/v7/indices/1d?type=1,2&location=101010100&key=926d17dc2fe943e2baaffbf732dfb584
+未来24h：https://devapi.qweather.com/v7/weather/24h?location=101010100&key=926d17dc2fe943e2baaffbf732dfb584
+未来7d：https://devapi.qweather.com/v7/weather/7d?location=101010100&key=926d17dc2fe943e2baaffbf732dfb584
+
+晴，云，阴，雨，雪，雾，霾，扬沙，浮尘，沙城暴，

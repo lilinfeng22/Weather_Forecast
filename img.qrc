@@ -1,0 +1,91 @@
+<RCC>
+  <qresource prefix="天气符号">
+    <file>素材/加班.png</file>
+    <file>素材/暴雪.png</file>
+    <file>素材/暴雨.png</file>
+    <file>素材/编组 32.png</file>
+    <file>素材/大风.png</file>
+    <file>素材/大气压.png</file>
+    <file>素材/大雨.png</file>
+    <file>素材/多云.png</file>
+    <file>素材/浮尘.png</file>
+    <file>素材/降水量.png</file>
+    <file>素材/空气温度.png</file>
+    <file>素材/雷电.png</file>
+    <file>素材/雷阵雨.png</file>
+    <file>素材/烈日.png</file>
+    <file>素材/霾.png</file>
+    <file>素材/气温-1.png</file>
+    <file>素材/晴天.png</file>
+    <file>素材/日出.png</file>
+    <file>素材/日落 (1).png</file>
+    <file>素材/时间.png</file>
+    <file>素材/收藏.png</file>
+    <file>素材/太阳.png</file>
+    <file>素材/特大扬沙.png</file>
+    <file>素材/天气 (1).png</file>
+    <file>素材/天气，预警.png</file>
+    <file>素材/天气.png</file>
+    <file>素材/天气-沙尘.png</file>
+    <file>素材/晚上.png</file>
+    <file>素材/温度.png</file>
+    <file>素材/雾.png</file>
+    <file>素材/下雨.png</file>
+    <file>素材/小雨.png</file>
+    <file>素材/阴天.png</file>
+    <file>素材/月亮.png</file>
+    <file>素材/云.png</file>
+    <file>素材/阵雨.png</file>
+    <file>素材/中雪.png</file>
+    <file>素材/气温-1.png</file>
+    <file>素材/暴雪.png</file>
+    <file>素材/暴雨.png</file>
+    <file>素材/大风.png</file>
+    <file>素材/大雨.png</file>
+    <file>素材/多语言 .png</file>
+    <file>素材/多云.png</file>
+    <file>素材/浮尘.png</file>
+    <file>素材/雷电.png</file>
+    <file>素材/雷阵雨.png</file>
+    <file>素材/烈日.png</file>
+    <file>素材/霾.png</file>
+    <file>素材/晴天.png</file>
+    <file>素材/日出.png</file>
+    <file>素材/日落 (1).png</file>
+    <file>素材/收藏.png</file>
+    <file>素材/特大扬沙.png</file>
+    <file>素材/天气 (1).png</file>
+    <file>素材/天气，预警.png</file>
+    <file>素材/天气.png</file>
+    <file>素材/天气-沙尘.png</file>
+    <file>素材/晚上.png</file>
+    <file>素材/温度.png</file>
+    <file>素材/雾.png</file>
+    <file>素材/下雨.png</file>
+    <file>素材/小雨.png</file>
+    <file>素材/阴天.png</file>
+    <file>素材/云.png</file>
+    <file>素材/阵雨.png</file>
+    <file>素材/中雪.png</file>
+    <file>素材/大风.png</file>
+    <file>素材/大雨.png</file>
+    <file>素材/多语言 .png</file>
+    <file>素材/雷电.png</file>
+    <file>素材/烈日.png</file>
+    <file>素材/霾.png</file>
+    <file>素材/日出.png</file>
+    <file>素材/日落 (1).png</file>
+    <file>素材/收藏.png</file>
+    <file>素材/天气 (1).png</file>
+    <file>素材/天气，预警.png</file>
+    <file>素材/天气-沙尘.png</file>
+    <file>素材/晚上.png</file>
+    <file>素材/未标题-3.png</file>
+    <file>素材/温度.png</file>
+    <file>素材/雾.png</file>
+    <file>素材/下雨.png</file>
+    <file>素材/云.png</file>
+    <file>素材/阵雨.png</file>
+    <file>素材/中雪.png</file>
+  </qresource>
+</RCC>
